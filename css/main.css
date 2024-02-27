@@ -1,0 +1,41 @@
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+header {
+    background-color: rgb(88, 133, 255);
+    font-size: 3.5em;
+    text-align: center;
+    font-weight: 700;
+    color:white;
+    padding: 1em;
+}
+
+article {
+    padding: 2em;
+}
+
+article p {
+    padding: 0.5em;
+}
+
+h2 {
+    font-size: 2em;
+    padding-bottom: 0.5em;
+    padding-top: 0.5em;
+}
+
+.button-to-page {
+    padding: 1em;
+}
+
+.button-to-page a:link, .button-to-page a:visited{
+    background-color: rgb(88, 133, 255);
+    color: white;
+    padding: 0.5em 0.5em;
+    display: inline-block;
+    text-decoration: none;
+}
+
+
+
