@@ -34,9 +34,18 @@ h3 {
 
 .button-to-page {
     padding: 1em;
+    
+    
+}
+
+.drop-down {
+    display: flex;
+    flex-direction: column;
+    
 }
 
 .button-to-page a:link, .button-to-page a:visited{
+    margin-bottom: 1em;
     background-color: rgb(88, 133, 255);
     color: white;
     padding: 0.5em 0.5em;
