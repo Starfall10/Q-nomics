@@ -17,6 +17,7 @@ article {
 
 article p {
     padding: 0.5em;
+    line-height: 1.5em;
 }
 
 h2 {
@@ -34,14 +35,11 @@ h3 {
 
 .button-to-page {
     padding: 1em;
-    
-    
 }
 
 .drop-down {
     display: flex;
     flex-direction: column;
-    
 }
 
 .button-to-page a:link, .button-to-page a:visited{
@@ -53,5 +51,23 @@ h3 {
     text-decoration: none;
 }
 
+
+table {
+    border: solid 2pt black;
+}
+
+thead {
+    border: solid 2pt black;
+}
+
+th {
+    border-right: solid 2pt black;
+    padding: 0.2em;
+}
+
+td {
+    border-right: solid 2pt black;
+    padding: 0.5em;
+}
 
 
